@@ -8,5 +8,6 @@ public class Main {
         System.out.println("The second student");
         Student student2 = new Student("Roza", "Negrea", 28);
         System.out.println(student2.toString());
+        System.out.println("---------------------");
     }
 }
